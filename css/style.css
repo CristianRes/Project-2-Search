@@ -1,0 +1,22 @@
+header {
+  font-size: Large;
+  font-style: oblique;
+    font-family:'Courier New';
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h2{
+    text-align:center;
+    padding: 80px;
+}
+
+h3{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+
