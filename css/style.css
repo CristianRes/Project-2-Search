@@ -2,21 +2,23 @@ header {
   font-size: Large;
   font-style: oblique;
     font-family:'Courier New';
+    
 }
 
 body{
     background-color: aquamarine;
 }
 
-h2{
+h1{
     text-align:center;
     padding: 80px;
 }
-
-h3{
+input{
+    text-align: center;
+}
+form{
     text-align: center;
 }
 footer{
     text-align: center;
 }
-
