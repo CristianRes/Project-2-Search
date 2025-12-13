@@ -11,13 +11,10 @@
       integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
       crossorigin="anonymous"
     />
-    <!--Bootstrap navbar-->
 
     <link rel="stylesheet" href="./css/style.css">
-    <!--References style.css-->
     
     <script src="./js/main.js" defer></script>
-    <!--script sources main.js and defer waits for it to fully load before continuing-->
 
   </head>
   
@@ -54,21 +51,13 @@
         </div>
       </nav>
     </header>
-    <!--Navbar-->
 
     <h1>Gif Search</h1>
-    <!--Title-->
 
-    <form action="Search">
-      <input type="submit" value="">
-    </form>
+    <input type="text" name ="SearchGif" id = "SearchGif" value="123">
+    <input type="button" value="Search" onclick="fetchImgWidth()">
 
-    <input type="text">
- 
-    <button>Search</button>
-    <!--Search Button-->
     <div id="imageContainer"></div>
-    <!--references imageContainer in .js-->
   
   <footer>2025 Cristian Resendiz</footer>
   

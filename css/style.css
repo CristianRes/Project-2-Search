@@ -2,7 +2,6 @@ header {
   font-size: Large;
   font-style: oblique;
     font-family:'Courier New';
-    
 }
 
 body{
@@ -13,12 +12,15 @@ h1{
     text-align:center;
     padding: 80px;
 }
+
 input{
     text-align: center;
 }
+
 form{
     text-align: center;
 }
+
 footer{
     text-align: center;
 }
