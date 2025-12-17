@@ -35,8 +35,7 @@ footer{
 }
 
 p{
-    text-align: center;
-    
+    text-align: center;  
 }
 
 #imageContainer{
@@ -58,4 +57,9 @@ p{
 .nav-link{
     color: white;
     text-shadow: 3px 3px 2px black;
+}
+
+.navbar-toggler{
+    border-color: white;
+    color: white;
 }
