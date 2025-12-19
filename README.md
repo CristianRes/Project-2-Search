@@ -11,7 +11,7 @@ User stories:
 
 As a user I want to be able to search for my favorite gifs.
 
-As a user I want a simple and clean website to use I don’t like it too complicated.
+As a user I want a simple and clean website to use, I don’t like it too complicated.
 
 As a user I want to be able to see multiple gifs at once.
 
