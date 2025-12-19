@@ -19,5 +19,5 @@ As a user I want to be able to see multiple gifs at once.
 
 Ideas for future improvement:
 - Make the site display the gifs in a better format
-- Have the site clear out previous results everytime a search is done
+- Have the site clear out previous results each time a search is done
 - Improve the site's aesthetics, like matching the navbar to the background, or experimenting with the text font and placement.
